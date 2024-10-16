@@ -40,3 +40,4 @@ build/
 ###
 src/main/java/org/nautilus/debug_local/
 .idea/
+/tomcat.8080/
